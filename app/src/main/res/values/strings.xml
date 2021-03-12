@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="preferenceFile">com.example.viewmodel.preferenceFile</string>
+</resources>
